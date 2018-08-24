@@ -1,0 +1,11 @@
+name: MAOSkillPlugin
+version: @version@
+main: mao.oyakodonkou.plugin.maoskillplugin.MAOSkillPlugin
+
+commands:
+  skillfishing:
+    description: Enable Fishing Skill.
+    usage: /skillfishing.
+  damageup:
+    description: Damage Up simasu
+    usage: /damageup
